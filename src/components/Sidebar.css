@@ -1,0 +1,24 @@
+.sidebar {
+  width: 200px;
+  background-color: rgba(247, 95, 34, 1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar button {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 10px;
+  margin: 5px 0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.sidebar button .icon {
+  margin-right: 10px;
+}

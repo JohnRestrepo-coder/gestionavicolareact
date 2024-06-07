@@ -1,0 +1,12 @@
+.tasks-container {
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  color: black;
+
+}
+
+.tasks-container h2 {
+  text-align: center;
+  color: rgba(247, 95, 34, 1);
+}
